@@ -58,7 +58,8 @@ Overall, the analysis highlights that platform-specific factors (such as Spotify
 ![Popular Songs](popular_song.png)
 ### 🎵 Top Artists
 ![Top Artists](most_popular_artist.png)
-* Monthly Streaming Trends in 2024
+### 📅 Monthly Streaming Trends in 2024
+![Monthly Streaming](month_streaming.png)
 * TikTok vs Spotify
 * Spotify Count vs Streams
 
