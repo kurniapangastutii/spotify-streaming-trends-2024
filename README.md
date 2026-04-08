@@ -62,6 +62,7 @@ Overall, the analysis highlights that platform-specific factors (such as Spotify
 ![Monthly Streaming](month_streaming.png)
 ### TikTok vs Spotify
 ![Tiktok vs Spotify](spotify_vs_tiktok_likes.png)
+![Tiktok views vs Spotify](spotify_vs_tiktok views.png)
 * Spotify Count vs Streams
 
 ---
