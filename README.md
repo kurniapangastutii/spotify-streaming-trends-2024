@@ -75,7 +75,7 @@ The finding shows that Top Streamed Song tends to be like Top Cover Song too.  H
 
 ## 🛠 Tools Used
 
-* Python (Pandas, Matplotlib)
+* Python (Pandas, Matplotlib, Seaborn)
 * Google Colab
 
 ---
