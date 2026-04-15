@@ -1,5 +1,4 @@
-🎧** Spotify 2024 Streaming Trends: Do Viral Platforms Drive Music Streams?**
-
+# 🎧 Spotify 2024 Streaming Trends: Do Viral Platforms Drive Music Streams?
 📌 Overview
 
 This project aims to:
